@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": " Braj",
+      "email": " b@gmail.com",
+      "mobile": 4541284597,
+      "address": " Mohali",
+      "services": " Chai Wala"
+    },
+    {
+      "id": 3,
+      "name": " Mohit",
+      "email": " m@gmail.com",
+      "mobile": 45814897461,
+      "address": " Indore",
+      "services": " Ice-cream wala"
+    },
+    {
+      "id": 4,
+      "name": " Shree",
+      "email": " s@gmail.com",
+      "mobile": 6261458748,
+      "address": " Dewas",
+      "services": " Manchurian wali"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
